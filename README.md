@@ -14,3 +14,6 @@
 - book_sending.py # Simulated shipping and email services
 - store.py # Bookstore logic
 
+![output](output_example.png)
+
+
